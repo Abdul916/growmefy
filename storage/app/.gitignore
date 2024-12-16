@@ -1,0 +1,5 @@
+*
+!public/
+!google-api/
+!google-api/**
+!.gitignore
